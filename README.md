@@ -1,16 +1,14 @@
 # 效果图
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/1.png)
+<div align="center">
+<img src="https://github.com/yzxzm/flutter_shop/tree/master/images/1.png" height="330" width="190" >
+ 
+<img src="https://github.com/yzxzm/flutter_shop/tree/master/images/2.jpg" height="330" width="190" >
+ 
+<img src="https://github.com/yzxzm/flutter_shop/tree/master/images/3.png" height="330" width="190" >
+ 
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/2.jpg)
-
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/3.png)
-
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/4.jpg)
-
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/5.jpg)
-
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/6.jpg)
+ </div>
 
 
 ## Getting Started
