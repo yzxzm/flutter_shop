@@ -8,7 +8,7 @@
 
 ![image](https://github.com/yzxzm/flutter_shop/tree/master/images/d.png)
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/e.png)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/e.png?raw=true)
 
 ![image](https://github.com/yzxzm/flutter_shop/tree/master/images/f.png)
 
