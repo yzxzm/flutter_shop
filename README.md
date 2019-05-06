@@ -1,16 +1,16 @@
 # 效果图
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/a.jpeg)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/a.jpeg)
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/b.png)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/b.png)
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/c.png)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/c.png)
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/d.png)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/d.png)
 
-![image](https://github.com/yzxzm/flutter_shop/blob/master/images/e.png?raw=true)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/e.png)
 
-![image](https://github.com/yzxzm/flutter_shop/tree/master/images/f.png)
+![image](https://github.com/yzxzm/flutter_shop/blob/master/images/f.png)
 
 
 
